@@ -11,6 +11,7 @@ function getEmployeeDetails(firstName, lastName, ID) {
   console.log(ID);
 }
 
+
 /*getEmployeeDetails({
   firstName: 'Shakir'
   lastName: 'Azam'
