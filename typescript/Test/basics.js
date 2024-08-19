@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var name = 'shakir';
+console.log(" Hello ".concat(name));
+var a = 10;
+a = 20;
+var x = 10;
+var num1 = 20;
+var myName = 'Shakir';
+var boolTF = true;
+var u = undefined;
+var n = null;
+var y;
+console.log(y);
